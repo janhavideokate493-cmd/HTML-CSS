@@ -1,0 +1,94 @@
+body {
+    font-family: 'poppins', sans-serif;
+    margin: 0;
+    text-align: center;
+    background-image: url("https://as2.ftcdn.net/v2/jpg/00/90/97/03/1000_F_90970368_jWglEgubEqsm5JOTeMQo7ftMk0bfEvSo.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+nav {
+    background: #333;
+    padding: 15px;
+    position: sticky;
+    top: 0;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+nav ul li a:hover {
+    color: orange;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    background: #edfbff;
+    color: rgb(23, 22, 22);
+}
+
+.hero,
+.places,
+footer {
+    padding: 30px;
+}
+
+.hero {
+   background-image: url("https://as1.ftcdn.net/v2/jpg/18/62/43/36/1000_F_1862433618_ntTEEcxRJUK0rTZPxo0lwwXnqzf13hkQ.jpg");
+}
+
+.card {
+   
+    border: 1px solid #ddd;
+    margin: 20px auto;
+    padding: 20px;
+    width: 80%;
+    border-radius: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+footer {
+    background: #333;
+    color: white;
+}
+
+footer input {
+    padding: 8px;
+    margin: 5px;
+    width: 250px;
+}
+
+/* Image Hover Pop Effect */
+.pop-image {
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    border-radius: 10px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    cursor: pointer;
+}
+
+.pop-image:hover {
+    transform: scale(1.1);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+}
