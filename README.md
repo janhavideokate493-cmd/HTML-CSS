@@ -26,6 +26,21 @@ User registration and login
 Product details page
 Responsive design for mobile and desktop devices
 Contact and support pag
+
+Travel & Tourism Website
+Overview
+
+The Travel & Tourism Website is a web-based platform that helps users explore destinations, plan trips, and book travel services. It provides information about popular tourist attractions, travel packages, hotels, and transportation options.
+
+Features
+Home page with featured destinations
+Destination gallery with images and details
+Travel package listings
+Hotel and accommodation information
+Booking inquiry form
+User registration and login
+Contact and support page
+Responsive design for mobile and desktop devices
 Technologies used:
 html
 css
