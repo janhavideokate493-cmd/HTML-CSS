@@ -31,6 +31,21 @@ Travel & Tourism Website
 Overview
 
 The Travel & Tourism Website is a web-based platform that helps users explore destinations, plan trips, and book travel services. It provides information about popular tourist attractions, travel packages, hotels, and transportation options.
+**Pet Grooming Website | HTML & CSS**
+
+Designed and developed a responsive **Pet Grooming Website** using **HTML5** and **CSS3**. The website features a clean and user-friendly interface with a modern navigation bar, dropdown menu, attractive hero section, service showcase, grooming plans, customer reviews, and interactive image hover effects. The project focuses on creating an engaging and visually appealing experience while demonstrating responsive layouts, CSS styling, and structured web design.
+
+**Key Features:**
+
+* Responsive navigation bar with dropdown menu
+* Attractive hero section with images
+* Grooming services and pricing plans
+* Customer reviews section
+* Interactive hover effects and smooth UI
+* Clean, organized, and beginner-friendly code
+
+**Technologies Used:** HTML5, CSS3
+
 
 Features
 Home page with featured destinations
